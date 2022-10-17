@@ -1,0 +1,4 @@
+node_modules/
+.env
+myp/node_modules/
+myp/.env
